@@ -1,0 +1,16 @@
+msgid "single_book" 
+msgid_plural "many_books" 
+msgstr[0] "libro"
+msgstr[1] "libros"
+
+msgid "i_bought" 
+msgstr " yo compré"
+
+msgid "her_birthday"
+msgstr "Su cumpleaño"
+
+msgid "now_time"
+msgstr "hora actual "
+
+msgid "welcome" 
+msgstr "Bienvenida al tutorial"

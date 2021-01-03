@@ -1,0 +1,17 @@
+msgid "single_book" 
+msgid_plural "many_books" 
+msgstr[0] "书"
+msgstr[1] "图书"
+
+msgid "i_bought" 
+msgstr "我买了 "
+
+msgid "her_birthday"
+msgstr "她的生日 "
+
+msgid "now_time"
+msgstr "当前时间 "
+
+msgid "welcome" 
+msgstr " 欢迎使用本教程"
+

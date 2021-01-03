@@ -1,0 +1,16 @@
+msgid "single_book" 
+msgid_plural "many_books" 
+msgstr[0] "كتاب"
+msgstr[1] "كتب"
+
+msgid "i_bought" 
+msgstr " اشتريت"
+
+msgid "her_birthday"
+msgstr "عيد ميلادها"
+
+msgid "now_time"
+msgstr "الوقت الحالي"
+
+msgid "welcome" 
+msgstr "مرحبًا بكم في البرنامج التعليمي"
